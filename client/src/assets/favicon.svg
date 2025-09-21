@@ -1,0 +1,18 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circular AI-inspired logo -->
+  <circle cx="30" cy="30" r="20" fill="#1B3A8A"/>
+  
+  <!-- Nodes -->
+  <circle cx="30" cy="15" r="3" fill="white"/>
+  <circle cx="45" cy="30" r="3" fill="white"/>
+  <circle cx="30" cy="45" r="3" fill="white"/>
+  <circle cx="15" cy="30" r="3" fill="white"/>
+  
+  <!-- Connections -->
+  <line x1="30" y1="15" x2="45" y2="30" stroke="white" stroke-width="1.8"/>
+  <line x1="45" y1="30" x2="30" y2="45" stroke="white" stroke-width="1.8"/>
+  <line x1="30" y1="45" x2="15" y2="30" stroke="white" stroke-width="1.8"/>
+  <line x1="15" y1="30" x2="30" y2="15" stroke="white" stroke-width="1.8"/>
+  <line x1="30" y1="15" x2="30" y2="45" stroke="white" stroke-width="1.8"/>
+  <line x1="15" y1="30" x2="45" y2="30" stroke="white" stroke-width="1.8"/>
+</svg>
